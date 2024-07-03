@@ -1,6 +1,8 @@
-## Hi there 👋
+## Hello There 👋
+Aiman Daniel from Shah Alam, Selangor, transitioning from a multimedia background to focusing on Swift and programming.
 
-[![Fushi's GitHub stats](https://github-readme-stats.vercel.app/api?username=fushidaniel)](https://github.com/anuraghazra/github-readme-stats)
+## Top Language
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fushidaniel&hide_progress=true)
 <!--
 **FushiDaniel/FushiDaniel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
