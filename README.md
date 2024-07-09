@@ -1,5 +1,5 @@
 ## Hello There 👋
-Aiman Daniel from Shah Alam, Selangor, transitioning from a multimedia background to focusing on Swift and programming.
+Aiman Daniel from Klang, Selangor, transitioning from a multimedia background to focusing on Swift and programming.
 
 ## Top Language
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fushidaniel&hide_progress=true)
