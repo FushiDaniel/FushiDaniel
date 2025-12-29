@@ -2,7 +2,7 @@
 Aiman Daniel from Klang, Selangor, transitioning from a multimedia background to focusing on Swift and programming.
 
 ## Top Language
-<img src="https://developer.apple.com/assets/elements/icons/swift/swift-256x256_2x.png" width="300" />
+<img src="https://developer.apple.com/assets/elements/icons/swift/swift-256x256_2x.png" width="150" />
 <!--
 **FushiDaniel/FushiDaniel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
