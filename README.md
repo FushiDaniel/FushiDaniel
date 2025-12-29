@@ -2,7 +2,7 @@
 Aiman Daniel from Klang, Selangor, transitioning from a multimedia background to focusing on Swift and programming.
 
 ## Top Language
-![Top Langs]([https://github-readme-stats.vercel.app/api/top-langs/?username=fushidaniel&hide_progress=true](https://developer.apple.com/assets/elements/icons/swift/swift-256x256_2x.png))
+![Top Langs]<img src="https://developer.apple.com/assets/elements/icons/swift/swift-256x256_2x.png" width="300" />
 <!--
 **FushiDaniel/FushiDaniel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
