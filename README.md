@@ -1,5 +1,5 @@
 ## Hello There 👋
-Aiman Daniel from Klang, Selangor, transitioning from a multimedia background to focusing on Swift and programming.
+I do swift programming full time.
 
 ## Top Language
 <img src="https://developer.apple.com/assets/elements/icons/swift/swift-256x256_2x.png" width="150" />
